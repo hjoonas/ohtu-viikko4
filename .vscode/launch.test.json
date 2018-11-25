@@ -1,0 +1,48 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "MockitoDemo",
+                "projectName": "MockitoDemo",
+                "workingDirectory": "/home/hjoo/Ohjelmistotuotanto/ohtu-viikko4/MockitoDemo",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "MatkakorttiMockito",
+                "projectName": "MatkakorttiMockito",
+                "workingDirectory": "/home/hjoo/Ohjelmistotuotanto/ohtu-viikko4/MatkakorttiMockito",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "MockitoDemo",
+                "projectName": "MockitoDemo",
+                "workingDirectory": "/home/hjoo/Ohjelmistotuotanto/ohtu-viikko4/MockitoDemo",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "MatkakorttiMockito",
+                "projectName": "MatkakorttiMockito",
+                "workingDirectory": "/home/hjoo/Ohjelmistotuotanto/ohtu-viikko4/MatkakorttiMockito",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
